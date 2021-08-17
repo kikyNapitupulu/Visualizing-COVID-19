@@ -13,3 +13,6 @@ Within months, COVID-19 went from an epidemic to a pandemic. From the first iden
 7. Adding a logarithmic scale
 8. Which countries outside of China have been hit hardest?
 9. Plotting hardest hit countries as of Mid-March 2020
+
+## Technology
+R
